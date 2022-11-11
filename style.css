@@ -1,4 +1,16 @@
+body{
+     background-color: rgba(255, 127, 80, 0.644);
+}
 
+h1{
+    text-align: center;
+    color: bisque;
+}
 p {
     text-align: center;
+    
+}
+
+em strong {
+   color:cornflowerblue
 }
